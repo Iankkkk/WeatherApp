@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         choix.setOnClickListener(choixListener);
         smeo.setOnClickListener(smeoListener);
 
-        setTitle("Meteo");
+        setTitle("Meteo Paris Smeo Alger");
         find_weather();
     }
 
