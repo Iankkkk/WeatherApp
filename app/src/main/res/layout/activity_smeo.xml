@@ -69,24 +69,5 @@
         android:layout_alignEnd="@+id/textView5"
         android:layout_marginTop="27dp" />
 
-    <Button
-        android:id="@+id/choix"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="400dp"
-        android:text="Alger"
-
-        />
-
-    <Button
-        android:id="@+id/smeo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="400dp"
-        android:layout_marginLeft="270dp"
-        android:text="Smeo"
-
-        />
-
 
 </RelativeLayout>
